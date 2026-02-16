@@ -34,7 +34,7 @@ const App = () => (
         </section>
 
         <section className="bg-black padding-x padding-t pb-8">
-            <footer />
+            <Footer />
         </section>
 
     </main>
