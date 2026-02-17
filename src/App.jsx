@@ -17,7 +17,7 @@ const App = () => (
             <SuperQuality />
         </section>
 
-        <section className="padding-x py-10">
+        <section className="padding-x paddingY-10">
             <Services />
         </section>
 
@@ -29,11 +29,11 @@ const App = () => (
             <CustomerReviews />
         </section>
 
-        <section className="padding-x sm:py-32 py-16 w-full">
+        <section className="padding-x sm:py-32 paddingY-16 w-full">
             <Subscribe />
         </section>
 
-        <section className="bg-black padding-x padding-t pb-8">
+        <section className="bg-black padding-x padding-t paddingB-8">
             <Footer />
         </section>
 
